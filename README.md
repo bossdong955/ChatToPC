@@ -1,7 +1,7 @@
 # ChatToPC（桌面智能问答语音助手）
 
 ​	一个在Windows运行的AI对话助手项目。它会在用户按住空格键时录制音频，使用本地 音频转文字API（SenseVoice）转录音频，将文本发送给大语言模型（LLM，如 OpenAI 的 GPT 系列），然后可以选择性地在弹窗中显示回复，和/或使用文本转语音（TTS）将回复朗读出来。
-制作不易，对你有帮助的话请stars。
+**制作不易，对你有帮助的话请stars**。
 ![example](images/example.jpeg)
 
 ## 功能特性
